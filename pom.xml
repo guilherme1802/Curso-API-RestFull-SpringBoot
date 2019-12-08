@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>br.com.exemplo.api</groupId>
 	<artifactId>ApiCarros</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>ApiCarros</name>
 	<description>Curso de Api RestFull com carros</description>
 
